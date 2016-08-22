@@ -1,0 +1,6 @@
+//WizGridBs. Set the row v1.0 (22-aug-2016)
+// Rows contain and clear the floats of your columns.
+
+%row {
+  @include make-row;
+}
